@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<!-- - [LinkedIn](https://www.linkedin.com/in/bhavinp16/) -->
-<!-- - [Instagram](https://www.instagram.com/_bhavin.p16/) -->
+- [LinkedIn](https://www.linkedin.com/in/vishal-ramanathan-683332192/)
+- [Instagram](https://www.instagram.com/vishalr_22/)
 - [Gmail](mailto:vishalramanathan22@gmail.com/)
-<!-- - [Twitter](https://www.twitter.com/_bhavinp16) -->
+- [Twitter](https://twitter.com/RVishal17937248)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalr-22&layout=compact)](https://github.com/vishalr-22/github-readme-stats)
 
