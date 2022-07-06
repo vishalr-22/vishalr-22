@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h3 align='center'>Third Year Computer Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalr-22" alt="vishal pviews" /> </p>
 
-- 💬 Currently working on Blockchain and Flutter 
+- 💬 Ask me about Blockchain, Flutter, Python 
+- 🔭 I’m currently working on Spring Boot and Angular
 
 ### Connect with me:
 
