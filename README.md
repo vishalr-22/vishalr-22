@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h2 align='center'> Hi I am R. Vishal👋</h2>
-<h3 align='center'>Third Year Computer Engineering Student</h3>
+<h3 align='center'>Final Year Computer Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalr-22" alt="vishal pviews" /> </p>
 
-- 🔭 I’m currently working on Spring Boot and Angular
+- 🔭 I’m currently working on java and related technoligies
 
 ### Connect with me:
 
