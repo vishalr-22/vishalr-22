@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align='center'>Final Year Computer Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalr-22" alt="vishal pviews" /> </p>
 
-- 🔭 I’m currently working on java and related technoligies
+- 🔭 I’m currently working on java and related technologies
 
 ### Connect with me:
 
